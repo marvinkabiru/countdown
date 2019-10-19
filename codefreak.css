@@ -1,0 +1,25 @@
+/* body{
+    margin:0;
+}
+.timerwrap{
+    width:100%;
+    float: left;
+    background-color: black;
+    padding: 20px 0px;
+}
+.timerwrap h1{
+    font: bold 15px calibri;
+    padding: 5px;
+    color: white;
+    background-color: blue;
+    text-align: center;
+}
+.timerwrap .timer{
+    text-align: center;
+    color: ghostwhite;
+    margin: 10px auto 0px;
+    font: bold 50px times new roman;
+}
+.timerwrap .time{
+   display: none;
+} */
